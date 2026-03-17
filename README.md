@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Crash Course for Machine Learning
 
 A beginner-friendly Python crash course designed specifically for people who want to learn **Python for Machine Learning**.
@@ -94,3 +95,7 @@ https://github.com/Aqib-Hanif
 ## License
 
 This project is licensed under the **MIT License**.
+=======
+# Python_Crash_Course_For_ML
+Beginner-friendly Python crash course designed for Machine Learning. Learn Python fundamentals with simple explanations, practical examples, and ML-focused exercises. Perfect for beginners starting their ML journey.
+>>>>>>> d0ab0d59079145ac6a187864789c48f134209837
