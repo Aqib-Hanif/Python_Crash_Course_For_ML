@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Python Crash Course for Machine Learning
 
 A beginner-friendly Python crash course designed specifically for people who want to learn **Python for Machine Learning**.
@@ -44,20 +44,7 @@ Each lesson includes:
 
 ---
 
-## Course Structure
-Python_Crash_Course_For_ML
-│
-├── README.md
-├── 01_variables.py
-├── 02_data_types.py
-├── 03_lists.py
-├── 04_loops.py
-├── 05_functions.py
 
-
-Each file represents a **single lesson**.
-
----
 
 ## Requirements
 
@@ -65,9 +52,6 @@ To follow this course you only need:
 
 - Python 3.9 or newer
 - A code editor such as **VS Code**
-
----
-
 
 ---
 
@@ -98,4 +82,4 @@ This project is licensed under the **MIT License**.
 =======
 # Python_Crash_Course_For_ML
 Beginner-friendly Python crash course designed for Machine Learning. Learn Python fundamentals with simple explanations, practical examples, and ML-focused exercises. Perfect for beginners starting their ML journey.
->>>>>>> d0ab0d59079145ac6a187864789c48f134209837
+
